@@ -1,0 +1,27 @@
+.rect{
+    background-color: rgb(50, 211, 85);
+    height: 100px;
+    width: 100px;
+    position: absolute;  /*포지션에 변동이 필요할떄 ,독고다이,절대값*/
+    top:250px;
+}
+
+
+.time{
+    background-color: rgb(155, 216, 41);
+    height: 100px;
+    width: 100px;
+    position: absolute;  /*포지션에 변동이 필요할떄 ,독고다이,절대값*/
+    top:650px;
+}
+
+
+.typo{
+    background-color: rgb(243, 243, 89);
+    color: rgb(97, 93, 93);
+    height: 100px;
+    width:200px;
+    position: absolute;
+    top:870px;
+}
+
